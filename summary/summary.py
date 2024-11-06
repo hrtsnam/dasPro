@@ -33,6 +33,10 @@ del list # Menghapus list
 # Tuple
 tuple = ("a", 1, 2.5, True)
 
+tupleToList = list(tuple)
+
+print(f"Merubah tuple: {tuple} ke list: {tupleToList}")
+
 # Set
 set = {"a", 1, 2.5, True}
 

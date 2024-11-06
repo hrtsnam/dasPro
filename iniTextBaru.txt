@@ -1,0 +1,4 @@
+Halo, ini text baru
+
+Ini adalah kumpulan tugas daspro yang diupload ke GitHub
+untuk memenuhi tugas mata kuliah LTIK.
